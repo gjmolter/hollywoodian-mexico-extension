@@ -3,15 +3,6 @@
   "name": "Hollywoodian Mexico",
   "version": "0.1",
   "description": "Adds a sepia filter to the map on Google Maps when viewing Mexico, so you can feel like you are in a Hollywood Movie!",
-  "permissions": ["activeTab"],
-  "action": {
-    "default_icon": {
-      "16": "images/icon16.png",
-      "32": "images/icon32.png",
-      "48": "images/icon48.png",
-      "128": "images/icon128.png"
-    }
-  },
   "icons": {
     "16": "images/icon16.png",
     "32": "images/icon32.png",
